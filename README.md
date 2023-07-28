@@ -4,7 +4,7 @@
 
 <p align="center">
     <b>
-        <font size="5">GimmeXAML</font>
+        <font size="6">GimmeXAML</font>
     </b>
 </p>
 <p align="center">
